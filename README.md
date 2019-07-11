@@ -1,6 +1,6 @@
 # Vast-Challenge-Notebook
 
-# About the VAST Challenge
+### About the VAST Challenge
 
 The Visual Analytics Science and Technology (VAST) Challenge is an annual contest with the goal of advancing the field of visual analytics through competition. The VAST Challenge is designed to help researchers understand how their software would be used in a novel analytic task and determine if their data transformations, visualizations, and interactions would be beneficial for particular analytic tasks. VAST Challenge problems provide researchers with realistic tasks and data sets for evaluating their software, as well as an opportunity to advance the field by solving more complex problems.
 
@@ -10,7 +10,7 @@ The VAST Challenge 2018 presents three mini-challenges for you to apply your vis
 
 These challenges are open to participation by individuals and teams in industry, government, and academia. We encourage your submissions and look forward to seeing your innovative approaches to solving these challenges using visual analytics.
 
-# The challenge :
+### The challenge :
 
 Claims that the Rose-Crested Blue Pipit are healthy and vibrant across the whole preserve are a key component of Kasios' position against the work done by grad student Mitch from last year. Other data sources are needed to further investigate the birds' situation. Perhaps these bird call recordings could provide more insight into the real situation? Blending machine learning and visual analytics may be a powerful combination for this mini-challenge.
 
